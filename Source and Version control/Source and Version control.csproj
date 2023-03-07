@@ -192,6 +192,7 @@
     <Content Include="ImAGES\image_five.jpg" />
     <Content Include="ImAGES\image_four.jpg" />
     <Content Include="ImAGES\image_one.png" />
+    <Content Include="ImAGES\image_six.jpg" />
     <Content Include="ImAGES\image_three.jpg" />
     <Content Include="ImAGES\image_two.jpg" />
     <Content Include="Scripts\bootstrap.js" />
